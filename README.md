@@ -31,7 +31,9 @@ Generalmente se compone de una sola capa de n neuronas ( por tanto n valores de 
   </ul>
 </p>
 
-![Adaline](https://user-images.githubusercontent.com/63067085/230702609-c0922234-a824-4166-b8aa-e123cf188e46.PNG)
+<p align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/63067085/230702609-c0922234-a824-4166-b8aa-e123cf188e46.PNG" alt="BannerPresentacionGitHub">
+</p>
 
 <h1 align="center">Concepto de Perceptrón multicapa</h1>
 <p>
@@ -40,8 +42,13 @@ Generalmente se compone de una sola capa de n neuronas ( por tanto n valores de 
 <p>
   El perceptrón usa una matriz para representar las redes neuronales y es un discriminador terciario que traza su entrada x (un vector binario) a un único valor de salida f(x) (un solo valor binario) a través de dicha matriz.
 </p>
-![Perceptron](https://user-images.githubusercontent.com/63067085/230702715-e7d9591b-cd2e-47a8-983b-7b3ebd701ec4.PNG)
+
+<p align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/63067085/230702715-e7d9591b-cd2e-47a8-983b-7b3ebd701ec4.PNG" alt="BannerPresentacionGitHub">
+</p>
+<h5 align="center">Donde "w" es un vector de pesos reales y "w ⋅ x" es el producto escalar (que computa una suma ponderada). "u" es el 'umbral', el cual representa el grado de inhibición de la neurona, es un término constante que no depende del valor que tome la entrada.</h5>
 
 <p align="center">
   <img width="600" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Perceptr%C3%B3n_5_unidades.svg/1920px-Perceptr%C3%B3n_5_unidades.svg.png" alt="BannerPresentacionGitHub">
 </p>
+<h5 align="center">Diagrama de un perceptrón con cinco señales de entrada.</h5>
