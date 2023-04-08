@@ -1,0 +1,12 @@
+{
+  "ServerUri": "http://localhost:9000/",
+  "Organization": null,
+  "ProjectKey": "Dulces_y_mas",
+  "ProjectName": "Dulces_y_mas",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AWtUHnkR060Zvi74QLuS",
+      "ProfileTimestamp": "2019-06-13T22:53:31-05:00"
+    }
+  }
+}
