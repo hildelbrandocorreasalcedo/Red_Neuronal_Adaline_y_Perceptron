@@ -35,7 +35,7 @@ Generalmente se compone de una sola capa de n neuronas ( por tanto n valores de 
   <img width="600" src="https://user-images.githubusercontent.com/63067085/230702609-c0922234-a824-4166-b8aa-e123cf188e46.PNG" alt="BannerPresentacionGitHub">
 </p>
 
-<h1 align="center">Concepto de Perceptrón multicapa</h1>
+<h1 align="center">Concepto de Perceptrón</h1>
 <p>
   a neurona artificial o unidad básica de inferencia en forma de discriminador lineal, a partir de lo cual se desarrolla un algoritmo capaz de generar un criterio para seleccionar un sub-grupo a partir de un grupo de componentes más grande.
 </p>
