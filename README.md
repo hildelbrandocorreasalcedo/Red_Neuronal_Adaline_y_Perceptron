@@ -4,6 +4,8 @@
 
 https://user-images.githubusercontent.com/63067085/230701548-f76969c6-4b84-4980-a62a-bb763dc0f350.mp4
 
+<p>El proyecto de red neuronal Adaline y Perceptrón implica la creación de una red que aprende a clasificar patrones mediante ajustes de pesos y umbrales. Se configura con parámetros de entrada, se inicializan los pesos, y a través de un proceso de entrenamiento, la red ajusta sus valores para minimizar el error en la clasificación. Durante la simulación, se carga un DataSet, se entrena la red en tiempo real, y se visualizan los resultados en gráficos, permitiendo guardar la configuración final y los pesos obtenidos.</p>
+
 <p align="center"><strong>IMAGEN DE Red Neuronal Perceptron Multicapa</</strong></p>
 
 ![Red Neuronal Adaline y Perceptron](https://user-images.githubusercontent.com/63067085/230701876-65b70baf-9083-41ba-b3a3-62efa8411c5e.jpeg)
